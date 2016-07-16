@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/streamed-twitter-sentiment-analysis.iml" filepath="$PROJECT_DIR$/.idea/modules/streamed-twitter-sentiment-analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/streamed-twitter-sentiment-analysis_main.iml" filepath="$PROJECT_DIR$/.idea/modules/streamed-twitter-sentiment-analysis_main.iml" group="streamed-twitter-sentiment-analysis" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/streamed-twitter-sentiment-analysis_test.iml" filepath="$PROJECT_DIR$/.idea/modules/streamed-twitter-sentiment-analysis_test.iml" group="streamed-twitter-sentiment-analysis" />
+    </modules>
+  </component>
+</project>
